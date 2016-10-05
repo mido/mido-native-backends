@@ -1,0 +1,12 @@
+http://msdn.microsoft.com/en-us/library/windows/desktop/dd798495%28v=vs.85%29.aspx
+http://code.activestate.com/recipes/576634-control-cpu-usage-by-using-ctypes-win32-platform/
+
+midiIn/OutGetDevCaps:
+http://msdn.microsoft.com/en-us/library/dd798453%28VS.85%29.aspx
+http://msdn.microsoft.com/en-us/library/dd798451%28v=vs.85%29.aspx
+
+http://stackoverflow.com/questions/19483083/c-undefined-reference-to-midi-function
+
+http://www.ccarh.org/courses/253/lab/midiprog/
+http://www.ccarh.org/courses/253/lab/midiprog/keymidi/keymidi.c
+http://msdn.microsoft.com/en-us/library/windows/desktop/dd742875%28v=vs.85%29.aspx
