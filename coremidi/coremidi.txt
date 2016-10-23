@@ -1,7 +1,7 @@
 https://stackoverflow.com/questions/22841741/calling-functions-with-arguments-from-corefoundation-using-ctypes
-
 https://developer.apple.com/library/prerelease/ios/documentation/MusicAudio/Reference/CACoreMIDIRef/index.html
-
 http://xmidi.com/how-to-access-midi-devices-with-coremidi/
-
 http://www.deluge.co/?q=core-midi-core-audio-useful-links
+http://www.finger-pro.com/docs/avoiding-the-pitfalls-of-coremidi-programming-for-developers.html
+https://github.com/jtauber/czerny/blob/master/recorder/mac/CoreMIDI.pyx
+https://docs.python.org/2/library/ctypes.html#callback-function
